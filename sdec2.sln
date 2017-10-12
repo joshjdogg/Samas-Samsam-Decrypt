@@ -1,8 +1,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sdec2", "sdec2.csproj", "{24F8A80E-5528-4BD7-ACC9-BD11776A5121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnSamSam", "UnSamSam\UnSamSam.csproj", "{765ED2F4-986F-4F6B-8A01-130788C9EBD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,8 +16,13 @@ Global
 		{24F8A80E-5528-4BD7-ACC9-BD11776A5121}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F8A80E-5528-4BD7-ACC9-BD11776A5121}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F8A80E-5528-4BD7-ACC9-BD11776A5121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765ED2F4-986F-4F6B-8A01-130788C9EBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765ED2F4-986F-4F6B-8A01-130788C9EBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A1D2C42-BC67-41B6-A5E6-2A7BB46CD3A2}
 	EndGlobalSection
 EndGlobal
